@@ -29,7 +29,7 @@ Write-Host "3. Multiplicar"
 Write-Host "4. Dividir"
 Write-Host "5. Salir"
 
-$opcion = Read-Host "¿Qué desea hacer? Elige una opción"
+$opcion = Read-Host "¿Que quieres hacer? Elige una opción"
 
 if ($opcion -ne 5) {
 
